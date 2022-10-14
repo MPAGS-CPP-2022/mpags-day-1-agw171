@@ -4,5 +4,5 @@ The tool should take input text and an encryption key then either encrypt or dec
 # How to install
 
 # Documentation
-
+~ To be replaced: This section will contain information on running the cypher tool ~
 # Authors 

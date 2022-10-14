@@ -7,5 +7,6 @@ The tool should take input text and an encryption key then either encrypt or dec
 ~ To be replaced: This section will contain information on running the cypher tool ~
 
 This is a change to see how git pull works
+Here's another change to see how conflicts work
 
 # Authors 

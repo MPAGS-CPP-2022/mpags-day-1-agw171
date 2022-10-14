@@ -8,4 +8,6 @@ The tool should take input text and an encryption key then either encrypt or dec
 
 This is a change to see how git pull works
 
+Here's a different change, which should I accept when the conflict occurs?
+
 # Authors 
